@@ -1,4 +1,4 @@
-package rs.raf.rafbook_android
+package rs.raf.banka_4
 
 import org.junit.Test
 

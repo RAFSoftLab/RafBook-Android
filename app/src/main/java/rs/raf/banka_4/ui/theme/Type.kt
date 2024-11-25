@@ -1,4 +1,4 @@
-package rs.raf.rafbook_android.ui.theme
+package rs.raf.banka_4.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

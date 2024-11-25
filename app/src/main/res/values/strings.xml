@@ -1,3 +1,36 @@
 <resources>
-    <string name="app_name">RafBook-Android</string>
+    <string name="app_name">RAFBook</string>
+    <string name="title_activity_splash">activity_splash</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="naziv_banke">Naša\nbanka</string>
+    <string name="fizicka">Fizička lica</string>
+    <string name="pravna">Pravna lica</string>
+    <string name="dobro_dosli">Dobro došli</string>
+    <string name="Nasa_mbanka">Naša mBanka</string>
+    <string name="stanovnistvo">za stanovništvo</string>
+    <string name="biznis">Biznis</string>
+    <string name="prva_valuta">Prva valuta</string>
+    <string name="druga_valuta">Druga valuta</string>
+    <string name="brzo_lako_sigurno">Brzo, lako i sigurno</string>
+    <string name="raspolozivo">Raspoloživo</string>
+    <string name="pregled_transakcija">Pregled transakcija</string>
+    <string name="pregled_svih_transakcija">Pregledaj sve transakcije</string>
+    <string name="menjacnica">Menjačnica</string>
+    <string name="izmena">Izvrši izmenu valuta</string>
+    <string name="kursna_lista">Kursna lista</string>
+    <string name="credit">Treba vam kredit\nza 30 minuta?\nstvarno može.</string>
+    <string name="vise">Saznaj više</string>
+    <string name="tip_racuna">Transakcijoni racun stanovnistvo</string>
+    <string name="broj_racuna">526-0000005960761-22</string>
+    <string name="detalji_racuna">Detalji računa</string>
+    <string name="transakcije">Transakcije</string>
+    <string name="naziv">Naziv</string>
+    <string name="stanje_racuna">Stanje računa</string>
+    <string name="rezervisana_sredstva">Rezervisana sredstva</string>
+    <string name="vlasnik">Vlasnik</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

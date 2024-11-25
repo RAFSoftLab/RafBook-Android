@@ -1,4 +1,4 @@
-package rs.raf.rafbook_android
+package rs.raf.banka_4
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("rs.raf.rafbook_android", appContext.packageName)
+        assertEquals("rs.raf.banka_4", appContext.packageName)
     }
 }
